@@ -25,3 +25,15 @@ Consisting:
 + Infinite jump
 + Noclip
 + inf build
+ V3
+ 
+ + Orbital strike accuracy fixed (3 more accuracy updates coming really soon)
++ No cooldown
++ Refresh GUI
++ Toggle GUI
++ Toxic Chat
++ Swearing
++ No snow
++ Helicopter noclip
++ fixed inf ammo
++ Fixed orbital strike
